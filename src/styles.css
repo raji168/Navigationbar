@@ -1,0 +1,37 @@
+.homepage{
+    text-align: center;
+    color: brown;
+    font-size: large;
+    margin-top: 180px;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.example-icon{
+    padding: 0 14px;
+}
+.example-spacer {
+    flex: 1 1 auto;
+}
+.mat-drawer-container{
+    background-color: rgb(187, 171, 187);
+}
+.mat-drawer{
+    background-color: plum;
+}
+.mat-elevation-z5{
+    position: relative;
+    z-index: 3;
+}
+.mat-sidenav a:hover{
+    color:saddlebrown;
+}
+.loginbutton{
+    font-size: 20px;
+    width: 150px;
+    height: 50px;
+}
+.loginbutton:hover{
+    color: rgb(12, 11, 11);
+    background-color: plum;
+    font-size: 20px;
+}
